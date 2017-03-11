@@ -1,0 +1,25 @@
+{
+  "name": "generatemvp",
+  "version": "1.0.0",
+  "description": "auto generatemvp java code ,include warpper,presenter,activity or fragment",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LavenderStream/generate.git"
+  },
+  "author": "tiny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LavenderStream/generate/issues"
+  },
+  "homepage": "https://github.com/LavenderStream/generate#readme"
+}
